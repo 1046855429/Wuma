@@ -46,3 +46,4 @@
 * 使用本软件将被视为对本声明全部内容的认可。
 
 [附件TOS](https://github.com/mumavpn/Wuma/blob/master/TOS.md)
+[隐私政策-英文](http://iwuma.xyz/mumavpn/privacy.html)
