@@ -1,18 +1,18 @@
-## V3.4.1-Wuma高级版-最新下载 【下载时务必关闭vpn】
-**🔴 [Wuma最新版本下载地址请点这里](http://psce.pw/E3RDP)🔴**
+## V3.5.9-Wuma高级版-最新下载 【下载时务必关闭vpn】
+**🔴 [Wuma最新版本下载地址请点这里](http://pesc.pw/G22WR)🔴**
 
 
 [其他下载渠道]
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/034/263/184/original/bf46cb1cdc31fe9259df2a6884eaee9f/wuma-3.4.1.apk)
+[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/040/008/053/original/2d885c0dab3ee96c9cd7c32367c85247/com.wuma.pn-3.5.9_legu_signed.apk)
 
-[安卓版(要求5.0以上)](http://176.122.135.123/new/wuma-3.4.1.apk) 
+[安卓版(要求5.0以上)](http://176.122.47.88/new/wuma-3.5.9.apk) 
 
 其他网盘下载
 
-[Yandex下载](https://yadi.sk/d/nMyTmarWAukGQw) 
+[Yandex下载](https://yadi.sk/d/wOaol7w_s0Oayg) 
 
-[EverNote](https://www.evernote.com/shard/s633/sh/cc394dd2-845a-4cee-8494-feea53d709a2/cb9efa8840dfd9d68f56abd5ba87f819) 
+[EverNote](https://www.evernote.com/shard/s633/sh/678d33f5-fde5-4f19-b9a2-5975814364fe/c660861f69de52b4e38d83399cea7625) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
@@ -30,4 +30,4 @@
 [V3.2.8](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/029/916/046/original/e3ce000a8e429b6081f5f57fa9e645fe/Wuma-git-3.2.8.apk)
 
 
-其他历史旧版请到https://apkpure.com 搜索（需翻墙）
+其他历史旧版请到[apkpure](https://apkpure.com/wuma-vpn-pro-fast-unlimited-security/com.muma.pn) （需翻墙）
