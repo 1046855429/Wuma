@@ -6,7 +6,7 @@
 
 [AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/040/008/053/original/2d885c0dab3ee96c9cd7c32367c85247/com.wuma.pn-3.5.9_legu_signed.apk)
 
-[安卓版(要求5.0以上)](http://176.122.47.88/new/wuma-3.5.9.apk) 
+[安卓版(要求5.0以上)](http://139.162.115.211/com.wuma.pn-3.5.9.apk) 
 
 其他网盘下载
 
