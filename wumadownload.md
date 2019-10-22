@@ -5,7 +5,7 @@
 
 **其他下载渠道
 
-[安卓版(要求5.0以上)](http://139.162.115.211/com.wuma.pn-3.6.1.apk) 
+[安卓版(要求5.0以上)](http://172.105.207.148/com.wuma.pn-3.6.1.apk) 
 [AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/041/842/698/original/9e44dd17082b4fa7fd5ac5603ecc6d9f/com.wuma.pn-3.6.1.apk)
 
 其他网盘下载
