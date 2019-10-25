@@ -7,13 +7,13 @@
 
 [安卓版(要求5.0以上)](http://172.105.207.148/com.wuma.pn-3.6.1.apk) 
 
-[AWS渠道](https://dl0tgz6ee3upo.cloudfront.net/production/app/builds/041/842/698/original/9e44dd17082b4fa7fd5ac5603ecc6d9f/com.wuma.pn-3.6.1.apk)
+[AWS渠道](https://d10h5veig7wbv1.cloudfront.net/production/app/builds/044/638/818/original/bc29a272b06a6d2b88be0e900a6e071f/com.muma.pn-4.0.0_sign.apk)
 
 其他网盘下载
 
-[Yandex下载](https://yadi.sk/d/ggdFcW9Aw_ebNg) 
+[Yandex下载](https://yadi.sk/d/IjSFqoUS4byq6Q) 
 
-[EverNote](https://www.evernote.com/shard/s633/sh/f3dfb329-bda5-4f3f-b349-521f16dc303f/a60c2799a6a0a6a97777ed0a1d559caa) 
+[EverNote](https://www.evernote.com/shard/s633/sh/a387e5ba-b523-48f1-998b-c7ef5b615d27/23b31749d6b4b22eee05ef2db14e719f) 
 
 [Google Play下载](https://play.google.com/store/apps/details?id=com.muma.pn) 
 
